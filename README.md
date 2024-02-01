@@ -52,7 +52,7 @@ La práctica evaluable se enfoca en familiarizarnos con Git y GitHub. Iniciamos 
 - `git rm --cached nombre_del_archivo.txt`: Elimina un archivo del área de trabajo, pero lo mantiene en el historial.
 
 ### Otros Comandos
-- `git log`: Muestra la historia de commits.
+- `git log --oneline`: Muestra la historia de commits.
 - `git status`: Muestra el estado actual del repositorio.
 - `git fetch`: Obtiene cambios del repositorio remoto sin aplicarlos.
 - `git tag`: Muestra las etiquetas existentes.

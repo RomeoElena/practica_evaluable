@@ -8,7 +8,7 @@
 
 <h2 align="center">Descripción del Ejercicio</h2>
 
-La práctica evaluable se enfoca en la familiarizarnos con Git y GitHub. Iniciamos creando un repositorio local llamado practica_evaluable y realizando diversos documentos para el manejo de comandos, desde la creación de archivos hasta el trabajo con ramas y repositorios remotos.
+La práctica evaluable se enfoca en familiarizarnos con Git y GitHub. Iniciamos creando un repositorio local llamado practica_evaluable y realizando diversos documentos para el manejo de comandos, desde la creación de archivos hasta el trabajo con ramas y repositorios remotos.
 
 
 <h2 align="center">Resumen de Comandos entre git y github:</h2>
